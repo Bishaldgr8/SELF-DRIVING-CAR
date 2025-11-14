@@ -37,7 +37,7 @@ The model is inspired by **Sully Chen’s behavioral cloning project** and updat
 - **Epochs**: 50  
 - **Performance**:
   - ~**90% lane-following accuracy** in validation tests
-  - **25–30 FPS inference** on GPU for real-time driving simulation
+  - **30–35 FPS inference** on GPU for real-time driving simulation
 
 ---
 
@@ -45,7 +45,7 @@ The model is inspired by **Sully Chen’s behavioral cloning project** and updat
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/AdarshSorout/Self-Driving-Car-using-NVIDIA-s-End-to-End-CNN-Model.git
+   git clone https://github.com/Bishaldgr8/Self-Driving-Car-using-NVIDIA-s-End-to-End-CNN-Model.git
    cd Self-Driving-Car-using-NVIDIA-s-End-to-End-CNN-Model
 
 ## Demo Video 🎥
